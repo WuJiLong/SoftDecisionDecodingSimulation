@@ -16,7 +16,7 @@
 - Polynomial  
   多項式類別
 - global  
-  全部(所有檔案)變數的定義
+  全域(所有檔案)變數的定義
 - modulation  
   調變的類別 其中包含兩個類別  
   CModulation 和 CSignal  
