@@ -5,13 +5,13 @@
   主程式檔案
 - algorithm  
   軟判決演算法
-- decoding
+- decoding  
   里得所羅門碼的編碼和解碼
 - define  
   參數定義檔案
 - function  
   計算BER、SER 和 CER 的函數
-- ㄒ  
+- Galois  
   加邏瓦域的有限域類別
 - Polynomial  
   多項式類別
