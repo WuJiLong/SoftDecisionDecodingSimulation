@@ -32,3 +32,4 @@
   繼承 CModulation  
 - modulationBPSK  
   繼承 CModulation  
+  ![image](https://user-images.githubusercontent.com/22883115/136451103-d426ce0a-acbb-4beb-8b2e-6365bad6ff52.png)
